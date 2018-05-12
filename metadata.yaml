@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41984'
     url: http://www.gutenberg.org/2009/agents/41984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43007#Tribute-to-Michael-Hart
 gutenberg_issued: '2013-06-21'
 gutenberg_type: Text
 identifiers:
